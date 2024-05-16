@@ -1,5 +1,7 @@
 # qrcodegan
-A General Adversarial Network (GAN) for QR Codes
+A General Adversarial Network (GAN) for QR Codes.
+Final Discriminator Accuracy on Real Images: 88.99%
+Final Discriminator Accuracy on Fake Images: 43.88%
 
 <img width="811" alt="Screenshot 2024-05-16 at 7 14 15 PM" src="https://github.com/ronantakizawa/qrcodegan/assets/71115970/01e7686d-f0a2-437f-8c04-83a3a9c42b31">
 <img width="810" alt="Screenshot 2024-05-16 at 7 14 20 PM" src="https://github.com/ronantakizawa/qrcodegan/assets/71115970/80f44897-d617-4357-9f71-a808e4a5cca7">
